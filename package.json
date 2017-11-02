@@ -1,0 +1,17 @@
+{
+  "name": "callejero-geocoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node src"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "d3-dsv": "^1.0.7"
+  }
+}
